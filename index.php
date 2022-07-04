@@ -26,7 +26,11 @@
         </tr>
         <tr>
             <th>Ders 2</th>
-            <th><button onclick="document.location='ders2/ders2.php'">Ders 1</button></th>
+            <th><button onclick="document.location='ders2/ders2.php'">Ders 2</button></th>
+        </tr>
+        <tr>
+            <th>Ders 3</th>
+            <th><button onclick="document.location='ders3/ders3.php'">Ders 3</button></th>
         </tr>
     </table>
     </body>

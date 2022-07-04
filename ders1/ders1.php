@@ -20,7 +20,7 @@
 </body>
 </html>
 <?php
-    echo "ilk ders ilk kod echo ile yazdirma- ";
+    echo "ilk ders3 ilk kod echo ile yazdirma- ";
     echo "<br>";
     print " -Print ile yazdirma";
 ?>
